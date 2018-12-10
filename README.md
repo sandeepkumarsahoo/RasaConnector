@@ -8,7 +8,7 @@ For me its running on http://localhost:5005
 
 Exposed Endpoints :-
 
-GET - http://<ip add:port>/core/message/(your_message)
+GET - http://(ip add:port)/core/message/(your_message)
   
 Sample Request and Response :
 1. http://localhost:8980/core/message/hi
