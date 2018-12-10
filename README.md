@@ -18,4 +18,4 @@ response :-
   }
 ]
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot.PNG)
